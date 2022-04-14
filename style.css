@@ -1,0 +1,48 @@
+.aca{
+    background-color: violet;
+}
+
+
+
+
+
+header{
+    background-image: url(multimedia/imgPrincipal.jpg);
+    height: 30em;
+    background-repeat: no-repeat;
+    background-position: 50% 35%;
+    background-size: cover;
+}
+
+.logo-nav-footer {
+    border-radius: 50%;
+}
+
+
+
+.img1{
+    background-image: url(multimedia/bacon\ .png);
+    height: 20em;
+    background-repeat: no-repeat;
+    background-position: 65% 50%;
+    background-size: cover;
+}
+
+.img2{
+    background-image: url(multimedia/galeria.jpg);
+    height: 20em;
+    background-repeat: no-repeat;
+    background-position: 65% 50%;
+    background-size: cover;
+}
+
+
+#logo-nosotros {
+    border-radius: 50%;
+    width: 20%;
+  }
+
+  .fa-brands ,fa-instagram{
+      font-size: 1.8rem;
+  }
+
